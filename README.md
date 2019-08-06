@@ -1,4 +1,4 @@
-# Scraping HTML with Nokogiri
+.2# Scraping HTML with Nokogiri
 
 ## Learning Goals
 
